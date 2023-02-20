@@ -23,6 +23,11 @@ mkcd(){
 
 ## Usage
 
+Source the bashrc file
+```console
+source ~/.bashrc
+```
+
 You can now head to your terminal and use the command as shown below
 
 ``` console
